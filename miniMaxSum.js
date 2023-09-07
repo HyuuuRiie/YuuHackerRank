@@ -9,4 +9,4 @@ const arr = [1, 2, 3, 4, 5];
 miniMaxSum(arr);
 
 // @hyuuue_11
-// More Solution Visit : https://github.com/HyuuuRiie/YuHackerRank
+// More Solution Visit my github
