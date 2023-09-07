@@ -7,4 +7,4 @@ const res = solveMeFirst(a, b);
 console.log(res);
 
 // @hyuuue_11
-// More Solution Visit my github
+// More Solution Visit https://github.com/HyuuuRiie
